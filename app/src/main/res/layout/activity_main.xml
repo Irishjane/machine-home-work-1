@@ -39,6 +39,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/button_clear"
         android:hint="@string/button_cancel" />
-
-
+    
+    <!-- Author: Irish Pabi -->
  </RelativeLayout>
